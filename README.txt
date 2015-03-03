@@ -1,4 +1,5 @@
-﻿MultiCraft
+﻿Exploration
+﻿the engine code is base on Multicraft project: https://github.com/MoNTE48/MultiCraft 
 ========
 
 An InfiniMiner/Minecraft inspired game.
